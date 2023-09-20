@@ -1,0 +1,33 @@
+html {
+  background-color: rgb(243, 137, 155);
+}
+
+body {
+  background-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 600px;
+  margin: 50px auto;
+  padding: 35px 85px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.class {
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: rgb(243, 137, 155);
+}
+
+a:hover {
+  color: rgb(243, 137, 155);
+}
+
+ul {
+  text-align: left;
+}
